@@ -1,14 +1,14 @@
 {
-	"host": "smtp.office365.com",
+	"host": "smtpServer",
 	"port": 587,
-	"secure": false,
-	"username": "auth@mobile-kfcu.org",
-	"password": "@Anubis2001@",
+	"secure": false, //
+	"username": "email",
+	"password": "password",
 	"tls": {
 		"rejectUnauthorized": false
 	},
 	"from": {
-		"name": "Namy Employer",
-		"email": "auth@mobile-kfcu.org"
+		"name": "fromName",
+		"email": "fromEmail"
 	}
 }
