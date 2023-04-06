@@ -1,7 +1,7 @@
 {
 	"host": "smtpServer",
 	"port": 587,
-	"secure": false, //
+	"secure": false,
 	"username": "email",
 	"password": "password",
 	"tls": {
